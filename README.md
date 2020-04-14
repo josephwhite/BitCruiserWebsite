@@ -1,2 +1,2 @@
 # BitCruiserWebsite
-[gui](https://github.com/josephwhite/BitCruiserWebsite/blob/master/bitcruisergui.PNG)
+![gui](https://github.com/josephwhite/BitCruiserWebsite/blob/master/bitcruisergui.PNG)
